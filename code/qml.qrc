@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CalendarPage.qml</file>
+        <file>PageEntry.qml</file>
+        <file>ProfilePage.qml</file>
+        <file>background/coverpic.jpg</file>
+        <file>icons/Cardiogram.ico</file>
+        <file>background/page1.jpg</file>
+        <file>background/scenery.jpg</file>
+        <file>background/surface.jpg</file>
+    </qresource>
+</RCC>

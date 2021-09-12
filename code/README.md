@@ -1,0 +1,1 @@
+A Qt based digital diary.
